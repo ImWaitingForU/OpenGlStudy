@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\roshan\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Project1.-1773268198.00" t="ExcludeRecursive" />
+    <e p="E:\GLAD\GLAD\src" t="Include">
+      <e p="glad.c" t="Include" />
+    </e>
+    <e p="E:\OpenGL\OpenGlStudy" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Project1" t="IncludeRecursive">
+        <e p="main.cpp" t="Include" />
+        <e p="Project1.vcxproj" t="IncludeRecursive" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="Project1.sln" t="IncludeFlat" />
+      <e p="x64\Debug" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
